@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+<h1>Apprendre les verbes irréguliers en Anglais</h1>
+
+{% endblock %}
+
+{% block body %}
+
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <a class="navbar-brand" href="{{ url_for('index')}}">Menu</a>
+</nav>
+
+<table>
+    <tr>
+        <th>Infintif</th>
+        <th>Preterit</th>
+        <th>Participe</th>
+    </tr>
+    <tr>
+        <td>{{verbe.Infinitif}}</td>
+        <td>{{verbe.Preterit}}</td>
+        <td>
+            <form action = "/entrainement2" method = 'POST'>
+                <input type="text" name="reponse" id="reponse">
+                <input type="hidden" name="verbe" id="verbe" value="{{verbe.Infinitif}}">
+                <input type="hidden" name="temps_verbe" id="temps_verbe" value="{{temps}}">
+                <input type="submit" value="Valider">
+            </form>
+        </td>
+    </tr>
+</table>
+
+{% endblock %}

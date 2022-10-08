@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+<h1>Apprendre les verbes irréguliers en Anglais</h1>
+
+{% endblock %}
+
+{% block body %}
+<h3>
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="{{ url_for('reviser')}}">Révision</a>
+    </nav>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="{{ url_for('entrainement')}}">S'entrainer</a>
+    </nav>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="{{ url_for('entrainement2')}}">entrainement2</a>
+    </nav>
+
+</h3>
+{% endblock %}

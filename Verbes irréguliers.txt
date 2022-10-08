@@ -1,0 +1,135 @@
+INFINITIF	PRÉTÉRIT	PARTICIPE PASSE
+arise s’élever	arose	arisen
+be être	was / were	been
+beat battre	beat	beaten
+become devenir	became	become
+begin commencer	began	begun
+bend plier, courber	bent	bent
+bet parier	bet	bet
+bind lier	bound	bound
+bleed saigner	bled	bled
+blow souffler	blew	blown
+break casser	broke	broken
+bring amener	brought	brought
+build construire	built	built
+burn brûler	burnt	burnt
+burst éclater	burst	burst
+buy acheter	bought	bought
+cast jeter, lancer	cast	cast
+catch attraper	caught	caught
+choose choisir	chose	chosen
+cling s’accrocher	clung	clung
+come venir	came	come
+cost coûter	cost	cost
+creep ramper	crept	crept
+cut couper	cut	cut
+deal s’occuper de	dealt	dealt
+dig creuser	dug	dug
+do faire	did	done
+draw dessiner	drew	drawn
+dream rêver	dreamt	dreamt
+drink boire	drank	drunk
+drive conduire	drove	driven
+eat manger	ate	eaten
+fall tomber	fell	fallen
+feed nourrir	fed	fed
+feel sentir, ressentir	felt	felt
+fight se battre	fought	fought
+find trouver	found	found
+fling lancer violemment	flung	flung
+fly voler	flew	flown
+forbid interdire	forbade	forbidden
+forget oublier	forgot	forgotten
+forgive pardonner	forgave	forgiven
+freeze geler	froze	frozen
+get obtenir, devenir…	got	got
+give donner	gave	given
+go aller	went	gone
+grind moudre	ground	ground
+grow grandir	grew	grown
+hang suspendre	hung	hung
+have avoir	had	had
+hear entendre	heard	heard
+hide (se) cacher	hid	hidden
+hit frapper	hit	hit
+hold tenir	held	held
+hurt faire mal,	hurt	hurt
+keep garder	kept	kept
+kneel s’agenouiller	knelt	knelt
+know savoir, connaître	knew	known
+lay étaler, disposer	laid	laid
+lead mener	led	led
+learn apprendre	learnt	learnt
+leave quitter, laisser	left	left
+lend prêter	lent	lent
+let permettre, laisser	let	let
+lie être étendu	lay	lain
+light allumer	lit	lit
+lose perdre	lost	lost
+make faire	made	made
+mean signifier, vouloir dire	meant	meant
+meet rencontrer	met	met
+pay payer	paid	paid
+put mettre	put	put
+read lire	read	read
+ride faire (du cheval, du vélo)	rode	ridden
+ring sonner	rang	rung
+rise se lever	rose	risen
+run courir	ran	run
+say dire	said	said
+see voir	saw	seen
+seek chercher	sought	sought
+sell vendre	sold	sold
+send envoyer	sent	sent
+set fixer	set	set
+sew coudre	sewed	sewn
+shake secouer	shook	shaken
+shine briller	shone	shone
+shoot tirer (pistolet)	shot	shot
+show montrer	showed	shown
+shrink se rétrécir	shrank	shrunk
+shut fermer	shut	shut
+sing chanter	sang	sung
+sink couler	sank	sunk
+sit être assis	sat	sat
+slay tuer	slew	slain
+sleep dormir	slept	slept
+slide glisser	slid	slid
+smell sentir	smelt	smelt
+speak parler	spoke	spoken
+spell épeler	spelt	spelt
+spend passer (temps), dépenser	spent	spent
+spill répandre	spilt	spilt
+spin tourner	spun	spun
+spit cracher	spat	spat
+split se séparer, se fendre	split	split
+spread étaler	spread	spread
+spring jaillir	sprang	sprang
+stand être debout	stood	stood
+steal voler	stole	stolen
+stick coller	stuck	stuck
+sting piquer	stung	stung
+stink puer	stank	stunk
+strike frapper	struck	struck
+swear jurer	swore	sworn
+sweep balayer	swept	swept
+swim nager	swam	swum
+swing se balancer	swung	swung
+take prendre	took	taken
+teach enseigner	taught	taught
+tear déchirer	tore	torn
+tell raconter	told	told
+think penser	thought	thought
+throw jeter	threw	thrown
+tread fouler aux pieds	trod	trodden
+undergo subir	underwent	undergone
+understand comprendre	understood	understood
+wake up se réveiller	woke up	woken up
+wear porter (habits)	wore	worn
+weave tisser	wove	woven
+weep pleurer	wept	wept
+win gagner	won	won
+wind serpenter	wound	wound
+withdraw se retirer	withdrew	withdrawn
+wring tordre	wrung	wrung
+write écrire	wrote	written

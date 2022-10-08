@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+<h1>Apprendre les verbes irréguliers en Anglais</h1>
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <a class="navbar-brand" href="{{ url_for('index')}}">Menu</a>
+</nav>
+
+{% endblock %}
+
+{% block body %}
+
+<table>
+    <tr>
+        <th>Infintif</th>
+        <th>Preterit</th>
+        <th>Participe</th>
+    </tr>
+    {% for verbe in verbes %}
+    <tr>
+        <td>{{verbe.Infinitif}}</td>
+        <td>{{verbe.Preterit}}</td>
+        <td>{{verbe.Participe}}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}
